@@ -7,3 +7,6 @@ while 1 + e > 1:
 
 print('計算結果:', e * 2)
 print('既定値:', sys.float_info.epsilon)
+
+
+#修正後

@@ -19,3 +19,5 @@ if __name__ == '__main__':
     GCD = gcd(num1, num2)
 
     print(f"({num1}, {num2}) → gcd: {GCD}")
+
+#修正後

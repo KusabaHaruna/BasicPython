@@ -12,7 +12,6 @@ print(euclid(a, b))
     
 def mutually_prime(a, b) :
     return euclid(a, b) == 1
-    return False
 print(mutually_prime(a, b))
 
 import random

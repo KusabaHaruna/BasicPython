@@ -28,5 +28,5 @@ q3 = trapezoidal_integral(q3_function, -100, 100, 1000)
 result = [q1, q2, q3]
 for i in range(3):
     print(f"関数のq{i+1}における積分の値は、{result[i]}です。")
-    
-                                
+
+ #　30行目の " "　は　' ' にしても大丈夫ですか？   

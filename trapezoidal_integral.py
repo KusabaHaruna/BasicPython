@@ -1,11 +1,11 @@
 from math import sin
+from math import pi
 import math
 
 # --example--
 # print(sin(0))
 # >>> 0
 # -----------
-
 
 def trapezoidal_integral(f, a = 0, b = 1, N = 100):
     h = (b - a) / N
@@ -32,4 +32,3 @@ for i in range(3):
 
  #　30行目の " "　は　' ' にしても大丈夫ですか？   
  # 最終
-
